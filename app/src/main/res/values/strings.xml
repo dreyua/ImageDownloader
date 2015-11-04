@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="button_download">Download</string>
+    <string name="hint_url">Enter image URL here</string>
+    <array name="urls">
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/47/Canonization_2014-_The_Canonization_of_Saint_John_XXIII_and_Saint_John_Paul_II_%2814036894824%29.jpg</item>
+        <item>http://apod.nasa.gov/apod/image/1511/monumentvalley_pacholka_1387.jpg</item>
+        <item>http://www.nasa.gov/sites/default/files/thumbnails/image/1443411999383450.png</item>
+        <item>http://www.tomswallpapers.com/images/201505/tomswallpapers.com_28074.jpg</item>
+        <item>http://i.imgur.com/JsPLOxp.jpg</item>
+    </array>
+</resources>
